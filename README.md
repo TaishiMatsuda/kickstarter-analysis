@@ -1,7 +1,16 @@
 # Analysis of Kickstarter Campaigns in US
 
 ## Objectives
- - To analyze the historical datafor Kickstarter campaigns in US
- - To provide Louise with keys for successful campaigns
+Louis is starting new campaign for plays in US.
 
-## 
+Through the analysis of the historical data for Kickstarter campaigns in US, we are aiming to provide Louise with keys for successful campaigns
+
+## Outcome Based on Goal Amount
+
+## Outcome Based on Launch Date
+
+## Conclusion
+3 Important Aspects of Successful Campaigns for plays in US are
+ - a
+ - Launch the campaigns in May
+ - a
