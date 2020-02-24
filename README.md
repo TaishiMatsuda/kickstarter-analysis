@@ -10,9 +10,11 @@ Changes of the success are high for campaigns with goal amount less than $5,000 
 
 ![01 - Outcome based on goal.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/01%20-%20Outcome%20based%20on%20goal.png)
 
-
+![02 - Goal vs Pledged.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/02%20-%20Goal%20vs%20Pledged.png)
 
 ## Outcome Based on Launch Date
+
+![03 - Outcome by Launch Date.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/03%20-%20Outcome%20by%20Launch%20Date.png)
 
 ## Conclusion
 3 Important Aspects of Successful Campaigns for plays in US are
