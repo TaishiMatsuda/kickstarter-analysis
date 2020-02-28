@@ -15,19 +15,21 @@ However, as shown in next section, any campaigns with goal amound higher than $2
 ## Distribution of Goal & Pledged Amount
 Setting the realistic goal is key to success.
  - Failed campaigns tend to have higher target than successful campaigns
- - Majority of successful campaigns collected $1,700 to $5,700. 
+ - Majority of successful campaigns collected $1,700 to $5,700.
  - Average percentage funded for successful campaigns are approx. 120%, which failed campaigns only collected 11% of the goal.
 
 ![02 - Goal vs Pledged.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/02%20-%20Goal%20vs%20Pledged.png)
 
 
 ## Outcome Based on Launch Date
-
+May is good / December is bad...
 ![03 - Outcome by Launch Date.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/03%20-%20Outcome%20by%20Launch%20Date.png)
 
+In case of US, campaigns launched in summer have significantly higher chance of success than those launched in winter.
 
 ## Conclusion
-3 Important Aspects of Successful Campaigns for plays in US are
- - a
- - Launch the campaigns in May
- - a
+4 Important Aspects of Successful Campaigns for plays in US are
+ - Set realistic target for Campaigns goal.
+ - Launch the campaigns in Summer and avoid Winter (Oct-Dec).
+ - Have plan to raise fund within 30 days.
+ - Successful campaigns collects funds from more than 100 people
