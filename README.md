@@ -33,3 +33,9 @@ In case of US, campaigns launched in summer have significantly higher chance of 
  - Launch the campaigns in Summer and avoid Winter (Oct-Dec).
  - Have plan to raise fund within 30 days.
  - Successful campaigns collects funds from more than 100 people
+ 
+## APPENDIX: Limitation of Data
+ - Limited available data depending on the country or the category of interest
+   >> Limited the analysis to US as there are prenty data available for US
+ - "Plays" is still a big bucket but no more details such as genre of plays are not available.
+   >> For more in-depth analysis, we will require to dig into more details.
