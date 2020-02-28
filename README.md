@@ -27,6 +27,9 @@ May is good / December is bad...
 
 In case of US, campaigns launched in summer have significantly higher chance of success than those launched in winter.
 
+## Outcome Based on Campaign Length
+![04 - Outcome by Campaign Length.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/04%20-%20Outcome%20by%20Campaign%20Length.png)
+
 ## Conclusion
 4 Important Aspects of Successful Campaigns for plays in US are
  - Set realistic target for Campaigns goal.
