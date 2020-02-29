@@ -7,11 +7,11 @@ Through the analysis of the historical data for Kickstarter campaigns in US, we 
 
 ## Contents
 1. Setting Realistic Goal for Campaign
- 1.1 Outcome Based on Goal Amound (Challenge Assignment Q1)
- 1.2 Goal vs Pledged 
+1.1 Outcome Based on Goal Amound (Challenge Assignment Q1)
+1.2 Goal vs Pledged 
 2. Launch Date & Length of Campaign
- 2.1 Outcome Based on Launch Date (Challenge Assignment Q2)
- 2.2 Outcome Based on Campaign Length
+2.1 Outcome Based on Launch Date (Challenge Assignment Q2)
+2.2 Outcome Based on Campaign Length
 3. Conclusion
 4. Limitation of Analysis
 
@@ -48,8 +48,8 @@ In case of US, campaigns launched in summer have significantly higher chance of 
  
 ## APPENDIX: Limitation
 - Louis asked for the relationship between campaign length and outcome but no data available for campaign length
- - Calculated campaign length based on Date Created and Date Ended and created the box plot to see the relation (2.2)
+ -- Calculated campaign length based on Date Created and Date Ended and created the box plot to see the relation (2.2)
 - Limited available data depending on the country or the category of interest
- - Limited the analysis to US as there are prenty data available for US
+ -- Limited the analysis to US as there are prenty data available for US
 - "Plays" is still a big bucket but no more details such as genre of plays are not available.
- - For more in-depth analysis, we will require to dig into more details.
+ -- For more in-depth analysis, we will require to dig into more details.
