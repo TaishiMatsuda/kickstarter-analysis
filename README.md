@@ -55,3 +55,5 @@ Majority of Successful Campaigns were able to collect the fund within 30 days.
 - "Plays" is still a big bucket but no more details such as genre of plays are not available.
 
 -- For more in-depth analysis, we will require to dig into more details.
+
+- As discussed in section 1 and 2, campaigns with goal higher than $10,000 are the outliers of the available dataset. If Louis is targeting for such an expensive campaign, different set of data should be collected or more in-depth study of campaigns with higher goal should be conducted.
