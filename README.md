@@ -27,10 +27,14 @@ Setting the realistic goal is key to success.
 
 ![02 - Goal vs Pledged.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/02%20-%20Goal%20vs%20Pledged.png)
 
+Note: Campaigns with high target (>$10,000) are outliers of the dataset. Conclusions of the analysis may not apply to those campaigns.
 
 ## 3. Outcome Based on Launch Date
 For Campaigns related to Theater, May is the best and December is the worst month to launch the campaign.
+
 ![03 - Outcome by Launch Date.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/03%20-%20Outcome%20by%20Launch%20Date.png)
+
+Note: Ongoing Campaigns (Live) are excluded from the above graph as the outcome is still unknown.
 
 By looking at the data only for Plays in US for the recent 3 years (2015-2017), we observe slightly different outcome. However, launching the campaign in between May and June will likely give better chance of success.
 ![05 - Outcome by Launch Date in US for Plays.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/05%20-%20Outcome%20by%20Launch%20Date%20in%20US%20for%20Plays.png)
