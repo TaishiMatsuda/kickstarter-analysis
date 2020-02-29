@@ -7,9 +7,11 @@ Through the analysis of the historical data for Kickstarter campaigns in US, we 
 
 ## Contents
 1. Setting Realistic Goal for Campaign
+
  a. Outcome Based on Goal Amound (Challenge Assignment Q1)
  b. Goal vs Pledged 
 2. Launch Date & Length of Campaign
+
  a. Outcome Based on Launch Date (Challenge Assignment Q2)
  b. Outcome Based on Campaign Length
 3. Conclusion
