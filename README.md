@@ -6,14 +6,14 @@ Louis is starting new campaign for plays in US.
 Through the analysis of the historical data for Kickstarter campaigns in US, we are aiming to provide Louise with keys for successful campaigns
 
 ## Contents
- Markup : 1. Setting Realistic Goal for Campaign
-              1. Outcome Based on Goal Amound (Challenge Assignment Q1)
-              2. Goal vs Pledged 
-          2. Launch Date & Length of Campaign
-              1. Outcome Based on Launch Date (Challenge Assignment Q2)
-              2. Outcome Based on Campaign Length
-          3. Conclusion
-          4. Limitation
+1. Setting Realistic Goal for Campaign
+    1.a. Outcome Based on Goal Amound (Challenge Assignment Q1)
+    1.b. Goal vs Pledged 
+2. Launch Date & Length of Campaign
+    2.a. Outcome Based on Launch Date (Challenge Assignment Q2)
+    2.b. Outcome Based on Campaign Length
+3. Conclusion
+4. Limitation
 
 ## 1.i. Outcome Based on Goal Amount
 Changes of the success are high for campaigns with goal amount less than $5,000 or in between $35,000 and $40,000.
