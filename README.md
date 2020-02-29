@@ -29,20 +29,22 @@ Setting the realistic goal is key to success.
 
 
 ## 3. Outcome Based on Launch Date
-May is good / December is bad...
+For Campaigns related to Theater, May is the best and December is the worst month to launch the campaign.
 ![03 - Outcome by Launch Date.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/03%20-%20Outcome%20by%20Launch%20Date.png)
 
-In case of US, campaigns launched in summer have significantly higher chance of success than those launched in winter.
+However, if we limit the data to Plays in US for the recent 3 years (2015-2017), we have slightly different outcome.
+ - May to Sep: Higher chance of success 
+ - Dec to Apr: Lower chance of success
+![05 - Outcome by Launch Date in US for Plays.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/05%20-%20Outcome%20by%20Launch%20Date%20in%20US%20for%20Plays.png)
 
 ## 4. Outcome Based on Campaign Length
 ![04 - Outcome by Campaign Length.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/04%20-%20Outcome%20by%20Campaign%20Length.png)
 
 ## 5. Conclusion
 4 Important Aspects of Successful Campaigns for plays in US are
- - Set realistic target for Campaigns goal.
- - Launch the campaigns in Summer and avoid Winter (Oct-Dec).
+ - Set realistic target for Campaigns goal (Less than $5,000)
+ - Launch the campaigns in between May and Sep. Avoid Period between Dec to Apr.
  - Have plan to raise fund within 30 days.
- - Successful campaigns collects funds from more than 100 people
  
 ## 6. Limitation
 - Louis asked for the relationship between campaign length and outcome but no data available for campaign length
