@@ -23,7 +23,7 @@ However, as shown in next section, any campaigns with goal amound higher than $2
 Setting the realistic goal is key to success.
  - Failed campaigns tend to have higher target than successful campaigns
  - Majority of successful campaigns collected $1,700 to $5,700.
- - Average percentage funded for successful campaigns are approx. 120%, which failed campaigns only collected 11% of the goal.
+ - Failed campaigns only collected 11% of the goal.
 
 ![02 - Goal vs Pledged.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/02%20-%20Goal%20vs%20Pledged.png)
 
@@ -32,12 +32,11 @@ Setting the realistic goal is key to success.
 For Campaigns related to Theater, May is the best and December is the worst month to launch the campaign.
 ![03 - Outcome by Launch Date.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/03%20-%20Outcome%20by%20Launch%20Date.png)
 
-However, if we limit the data to Plays in US for the recent 3 years (2015-2017), we have slightly different outcome.
- - May to Sep: Higher chance of success 
- - Dec to Apr: Lower chance of success
+By looking at the data only for Plays in US for the recent 3 years (2015-2017), we observe slightly different outcome. However, launching the campaign in between May to Sep will likely give better chance of success.
 ![05 - Outcome by Launch Date in US for Plays.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/05%20-%20Outcome%20by%20Launch%20Date%20in%20US%20for%20Plays.png)
 
 ## 4. Outcome Based on Campaign Length
+Majority of Successful Campaigns were able to collect the fund within 30 days. 
 ![04 - Outcome by Campaign Length.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/04%20-%20Outcome%20by%20Campaign%20Length.png)
 
 ## 5. Conclusion
@@ -48,8 +47,8 @@ However, if we limit the data to Plays in US for the recent 3 years (2015-2017),
  
 ## 6. Limitation
 - Louis asked for the relationship between campaign length and outcome but no data available for campaign length
- -- Calculated campaign length based on Date Created and Date Ended and created the box plot to see the relation (See 2.)
+  -- Calculated campaign length based on Date Created and Date Ended and created the box plot to see the relation (See 4)
 - Limited available data depending on the country or the category of interest
- -- Limited the analysis to US as there are prenty data available for US
+  -- Limited the analysis to US as there are prenty data available for US
 - "Plays" is still a big bucket but no more details such as genre of plays are not available.
- -- For more in-depth analysis, we will require to dig into more details.
+  -- For more in-depth analysis, we will require to dig into more details.
