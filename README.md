@@ -7,21 +7,21 @@ Through the analysis of the historical data for Kickstarter campaigns in US, we 
 
 ## Contents
 1. Setting Realistic Goal for Campaign
-1.1 Outcome Based on Goal Amound (Challenge Assignment Q1)
-1.2 Goal vs Pledged 
+ a. Outcome Based on Goal Amound (Challenge Assignment Q1)
+ b. Goal vs Pledged 
 2. Launch Date & Length of Campaign
-2.1 Outcome Based on Launch Date (Challenge Assignment Q2)
-2.2 Outcome Based on Campaign Length
+ a. Outcome Based on Launch Date (Challenge Assignment Q2)
+ b. Outcome Based on Campaign Length
 3. Conclusion
 4. Limitation of Analysis
 
-## 1.1 Outcome Based on Goal Amount
+## 1.a. Outcome Based on Goal Amount
 Changes of the success are high for campaigns with goal amount less than $5,000 or in between $35,000 and $40,000.
 However, as shown in next section, any campaigns with goal amound higher than $20,000 are outlier.
 
 ![01 - Outcome based on goal.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/01%20-%20Outcome%20based%20on%20goal.png)
 
-## 1.2 Distribution of Goal & Pledged Amount
+## 1.b. Distribution of Goal & Pledged Amount
 Setting the realistic goal is key to success.
  - Failed campaigns tend to have higher target than successful campaigns
  - Majority of successful campaigns collected $1,700 to $5,700.
@@ -30,13 +30,13 @@ Setting the realistic goal is key to success.
 ![02 - Goal vs Pledged.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/02%20-%20Goal%20vs%20Pledged.png)
 
 
-## 2.1 Outcome Based on Launch Date
+## 2.a. Outcome Based on Launch Date
 May is good / December is bad...
 ![03 - Outcome by Launch Date.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/03%20-%20Outcome%20by%20Launch%20Date.png)
 
 In case of US, campaigns launched in summer have significantly higher chance of success than those launched in winter.
 
-## 2.2 Outcome Based on Campaign Length
+## 2.b. Outcome Based on Campaign Length
 ![04 - Outcome by Campaign Length.png](https://github.com/TaishiMatsuda/kickstarter-analysis/blob/master/04%20-%20Outcome%20by%20Campaign%20Length.png)
 
 ## 3. Conclusion
@@ -46,7 +46,7 @@ In case of US, campaigns launched in summer have significantly higher chance of 
  - Have plan to raise fund within 30 days.
  - Successful campaigns collects funds from more than 100 people
  
-## APPENDIX: Limitation
+## 4. Limitation
 - Louis asked for the relationship between campaign length and outcome but no data available for campaign length
  -- Calculated campaign length based on Date Created and Date Ended and created the box plot to see the relation (2.2)
 - Limited available data depending on the country or the category of interest
