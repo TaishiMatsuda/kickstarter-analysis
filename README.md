@@ -47,8 +47,11 @@ Majority of Successful Campaigns were able to collect the fund within 30 days.
  
 ## 6. Limitation
 - Louis asked for the relationship between campaign length and outcome but no data available for campaign length
-  -- Calculated campaign length based on Date Created and Date Ended and created the box plot to see the relation (See section 4).
+
+-- Calculated campaign length based on Date Created and Date Ended and created the box plot to see the relation (See section 4).
 - Limited available data depending on the country or the category of interest
-  -- Limited the analysis to US as there are prenty data available for US. In addition, I checked the relationship between the launch data and the outcome just for US. (See second graph under section 3).
+
+-- Limited the analysis to US as there are prenty data available for US. In addition, I checked the relationship between the launch data and the outcome just for US. (See second graph under section 3).
 - "Plays" is still a big bucket but no more details such as genre of plays are not available.
-  -- For more in-depth analysis, we will require to dig into more details.
+
+-- For more in-depth analysis, we will require to dig into more details.
