@@ -6,17 +6,16 @@ Louis is starting new campaign for plays in US.
 Through the analysis of the historical data for Kickstarter campaigns in US, we are aiming to provide Louise with keys for successful campaigns
 
 ## Contents
+
 1. Setting Realistic Goal for Campaign
 
- a. Outcome Based on Goal Amound (Challenge Assignment Q1)
- 
- b. Goal vs Pledged 
+a. Outcome Based on Goal Amound (Challenge Assignment Q1)
+b. Goal vs Pledged 
 
 2. Launch Date & Length of Campaign
 
- a. Outcome Based on Launch Date (Challenge Assignment Q2)
-
- b. Outcome Based on Campaign Length
+a. Outcome Based on Launch Date (Challenge Assignment Q2)
+b. Outcome Based on Campaign Length
 
 3. Conclusion
 4. Limitation of Analysis
